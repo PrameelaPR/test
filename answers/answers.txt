@@ -1,2 +1,2 @@
-1.  ls
+1.  ls -l
 2.  ls -ltr
